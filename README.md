@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineering student since I had 15 years old :).
+ 
+But I love learn new thing beyond school, if I don't know anything please make me one week.
+
 <!--
 **josuejimenez20/josuejimenez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
